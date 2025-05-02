@@ -1,15 +1,15 @@
 Andrew
-std::vector<int> getShuffledVector() - DONE
-void fillBoardWithIndependentBox(int** BOARD) - DONE
-void deleteRandomItems(int** BOARD, const int& n) - DONE
-bool solveBoardEfficient(int** BOARD) - DONE
+getShuffledVector
+fillBoardWithIndependentBox
+deleteRandomItems
+solveBoardEfficient
 
 Antonio
-int** generateBoard(const int& empty_boxes)
-tuple<int, int, int> findNextCell(int** BOARD)
-bool solve(int** board, const bool& efficient)
+generateBoard
+findNextCell
+solve
 
 Lizzy
-void deallocateBoard(int** BOARD, const int& rows) - DONE
-void createAndSaveNPuzzles - DONE?
-void compareSudokuSolvers
+deallocateBoard
+createAndSaveNPuzzles
+compareSudokuSolvers
