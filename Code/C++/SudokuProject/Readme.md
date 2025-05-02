@@ -65,5 +65,3 @@ The goal of this project was to, as a group, create an operational Sudoku solver
 ## Output
 
 - In **non-DEBUG** mode, the program will read puzzles from `data/puzzles/` and write solutions to `data/solutions/`.
-
-Happy coding and feel free to ask questions if anything is unclear!
