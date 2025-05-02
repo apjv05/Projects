@@ -3,7 +3,7 @@
 
 ## Overview
 
-The goal of this project was to, as a grouo, create an operational Sudoku solver based on a backtracking algorithm, and generator. The fundamental functionality entailed reading an unsolved Sudoku grid, recursively visiting possible placements of numbers, and returning an existing solution when available. The primary result was to implement an effective recursive solver that could successfully solve standard 9x9 Sudoku puzzles. A `DEBUG` mode is available for verifying implementation. When running in non-`DEBUG` mode, the program will output files in the `data` folder, typically found inside the `cmake-build-debug` directory.
+The goal of this project was to, as a group, create an operational Sudoku solver based on a backtracking algorithm, and generator. The fundamental functionality entailed reading an unsolved Sudoku grid, recursively visiting possible placements of numbers, and returning an existing solution when available. The primary result was to implement an effective recursive solver that could successfully solve standard 9x9 Sudoku puzzles. A `DEBUG` mode is available for verifying implementation. When running in non-`DEBUG` mode, the program will output files in the `data` folder, typically found inside the `cmake-build-debug` directory.
 
 > **Important:** This project is **strongly recommended** to be run using **CLion**. If you wish to use **VSCode**, utilize the provided `buildrun.sh` script.
 
