@@ -21,7 +21,7 @@
 Compile from main.cpp
 
 ## How to make a Supermarket File
-To load it in type in "supermarkets/filename.txt" to load them in. You can load in a custom supermarket using the following template below or load in a pre-made one from the supermarkets folder. Once you make your supermarket, I would recommend putting it into the supermarkets folder just for organization.
+To use a pre-made supermarket, type "supermarkets/filename.txt" - replacing fulename.txt with the supermarket of your choosing. You can load in a custom supermarket using the following template below or load in a pre-made one from the supermarkets folder. Once you make your supermarket, I would recommend putting it into the supermarkets folder - just for organization.
 
 ### General Template
 ```
