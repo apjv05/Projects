@@ -28,6 +28,7 @@ string promptForFilename()
 	bool bFileCheck = false;
     ifstream fin;
     
+	cout << "Type exit bypass file input.\n";
     do {
 		cout << "Please enter file path: ";
         getline(cin, szFileName);

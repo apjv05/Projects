@@ -5,12 +5,9 @@
 
 using namespace std;
 
-string szBreakMessage = "*****************************\n";
-double dSALES_TAX = 0.08;
-
 /*********************************************************************
 File name: supermarket_simulator_program_3.cpp
-Author: 
+Author: Andrew Voyez
 Date: 12/2/2024
 
 Purpose:

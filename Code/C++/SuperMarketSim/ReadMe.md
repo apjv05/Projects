@@ -1,19 +1,40 @@
-How to make a supermarket file:
 
+# Supermarket Simulation
+
+<!Overview>
+
+## Project Structure
+
+```
+├── headers
+│     ├── functions.h
+│     └── structs.h
+├── main.cpp
+└── ReadMe.md
+```
+
+## Running the Project
+
+Compile from main.cpp
+
+## How to make a Supermarket File
+
+### General Template
+```
 Supermarket Name
 Hours
 Starting Funds
 Membership fee
-*Aisle Information* to tell the computer to start looking for aisles
+*Aisle Information* tells the computer to start looking for aisles
 Aisle Name
 Product Wholesale Regular Member
 ############################ to make a new aisle then repeat Aisle informatiom
 *Employee Information* to tell the computer to start looking for employee information
 Name ID Salary
-
-Examples:
-File 1:
-CS Mart 3.0
+```
+### Some Examples
+```
+CS Mart
 8:00 am to 10:00 pm
 10000.00
 5.00
@@ -49,8 +70,9 @@ Daniel_Taylor D1234 115.00
 Emma_Jones E6789 82.00
 Jacob_Miller J3456 125.00
 Sophia_Davis S8901 75.00
+```
 
-File 2:
+```
 Tech Store
 9:00 am to 9:00 pm
 50000.00
@@ -102,3 +124,4 @@ Olivia_Chen C9012 1700.00
 Ethan_Lee L1234 1450.00
 Ava_Kim K5678 1350.00
 Noah_Brown B9012 1650.00
+```
