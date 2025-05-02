@@ -1,0 +1,36 @@
+CS Mart
+8:00 am to 10:00 pm
+10000.00
+5.00
+*Aisle Information*
+Aisle 0: Produce
+Apples 0.80 1.29 1.09
+Oranges 0.75 1.19 0.99
+Bananas 0.60 0.99 0.89
+############################
+Aisle 1: Dairy
+Milk 2.50 3.49 3.19
+Cheese 4.00 5.99 5.49
+Yogurt 1.20 1.79 1.59
+############################
+Aisle 2: Snacks
+Chips 2.00 2.99 2.69
+Candy_Bars 1.50 2.29 2.09
+############################
+Aisle 3: Personal Care
+Shampoo 5.00 7.99 7.19
+Toothpaste 2.00 2.99 2.69
+Deodorant 2.50 3.99 3.59
+Vitamins 10.00 14.99 13.49
+############################
+*Employee Information*
+John_Doe J4567 100.00
+Jane_Smith S9012 90.00
+Michael_Johnson M3456 120.00
+Emily_Williams E8901 80.00
+David_Brown D2345 110.00
+Olivia_Wilson O7890 85.00
+Daniel_Taylor D1234 115.00
+Emma_Jones E6789 82.00
+Jacob_Miller J3456 125.00
+Sophia_Davis S8901 75.00
