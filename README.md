@@ -20,7 +20,3 @@ This repo serves as:
     A sandbox for testing new ideas or tools.
 
     A place to improve through building, breaking, and iterating.
-
-## Notes
-
-This is a work in progress. Some projects are polished, others are experimental or incomplete. Feedback is always welcome!
