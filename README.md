@@ -7,6 +7,8 @@ Welcome! This repository contains a collection of coding projects I've built whi
 
 Each project is stored in its own directory. Here's a brief overview:
 
+    Community Management Bot - keeps track of members and updates and displays values from a database
+
     sudoku_solver – Randomly generates a sudoku board and solves it with a backtracking algorithm.
 
     Supermarket Simulator - simulates managing products, customer checkout, supermarket members, and employee management.
