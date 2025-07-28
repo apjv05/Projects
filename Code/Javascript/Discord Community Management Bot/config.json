@@ -1,0 +1,7 @@
+{
+    "token": "YOUR-BOT-TOKEN-HERE",
+    "clientId": "YOUR-BOT-ID-HERE",
+    "guildId": "YOU-ID-HERE",
+    "supabaseKey": "YOUR-KEY-HERE",
+    "supabaseUrl": "YOUR-URL-HERE"
+}

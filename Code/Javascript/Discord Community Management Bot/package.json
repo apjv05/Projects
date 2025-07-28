@@ -1,0 +1,25 @@
+{
+  "name": "ccc-management-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorningArch/CCC-Management-Software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorningArch/CCC-Management-Software/issues"
+  },
+  "homepage": "https://github.com/MorningArch/CCC-Management-Software#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.2",
+    "discord.js": "^14.21.0",
+    "pg": "^8.16.2"
+  }
+}
