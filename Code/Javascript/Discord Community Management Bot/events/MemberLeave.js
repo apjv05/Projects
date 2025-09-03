@@ -11,11 +11,12 @@ module.exports = {
         const check = Vars(member);
         if (check.IsBot) return;
 
+        const MemberID = member.user.id;
         try {
             const { error } = await db
                 .from('member')
                 .delete()
-                .eq('UserID', check.MemberID);
+                .eq('UserID', MemberID);
 
             if (error) throw error;
             console.log(`${check.MemberName} left the server & their row has been deleted`);

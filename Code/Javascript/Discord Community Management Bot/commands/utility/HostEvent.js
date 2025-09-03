@@ -17,6 +17,16 @@ module.exports = {
             option.setName('attendees')
                 .setDescription('mention users who attended (@user1 @user2)')
                 .setRequired(true))
+        // .addStringOption(option =>
+        //     option.setName('game')
+        //         .setDescription('game played in your event')
+        //         .setRequired(true)
+        //         .addChoices(
+        //             { name: 'arcane-odyssey', value: 'ao' },
+        //             { name: 'deepwoken', value: 'dw' },
+        //             { name: 'the-wild-west', value: 'tww' },
+        //             { name: 'game-night', value: 'gn' }
+        //         ))
         .addStringOption(option =>
             option.setName('co-hosts')
                 .setDescription('people who helped you host')
